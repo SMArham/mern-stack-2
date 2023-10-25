@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Table-Based Website</title>
+  <style>
+    table {
+      border: 2px solid black;
+    
+    }
+  </style>
+</head>
+<body>
+  <table width="95%";height="300%" border="2">
+    <tr>
+      <th>Company</th>
+      <th>Contact</th>
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>Meta</td>
+      <td colspan="3">Maria </td>
+      
+    </tr>
+    <tr>
+      <td>Centro </td>
+      <td colspan="3">William</td>
+    </tr>
+    <tr>
+        <td>Facebook </td>
+        <td colspan="3">Moctezuma</td>
+    </tr>
+    <tr>
+      <td colspan="3">Google </td>
+
+    </tr>
+
+
+
+  </table>
+</body>
+</html>   
+
